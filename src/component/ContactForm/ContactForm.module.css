@@ -1,0 +1,12 @@
+.conteiner {
+  display: flex;
+  justify-content: space-between;
+}
+.mainConteiner {
+  width: 300px;
+  margin-left: 430px;
+  margin-top: 30px;
+}
+button {
+  margin-left: 50px;
+}
